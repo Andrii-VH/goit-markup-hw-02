@@ -49,8 +49,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.contacts-list-item:hover,
-.contacts-list-item:focus {
+.contacts-list-link:hover,
+.contacts-list-link:focus {
   color: #404bbf;
 }
 /* ===== HERO ===== */
