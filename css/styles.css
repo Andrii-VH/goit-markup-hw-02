@@ -98,8 +98,8 @@ body {
 .team {
   background-color: #f4f4fd;
 }
-.team-list {
-  background: #ffffff;
+.team-item {
+  background-color: #ffffff;
 }
 .team-title {
   font-weight: 700;
